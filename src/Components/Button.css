@@ -1,0 +1,25 @@
+.btn
+{
+    color: whitesmoke;
+    padding: 1rem;
+    font-size: x-large;
+    border-radius: 1em;
+    cursor: pointer;
+
+}
+
+.red{
+    background-color: crimson;
+}
+
+.green{
+    background-color: greenyellow;
+}
+
+.bordered {
+    border: 2px solid black;
+}
+
+.ghost {
+    border: none;
+}
